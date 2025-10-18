@@ -31,8 +31,8 @@ This is a open-hardware wearable based on the ESP32 microcontroller. It is fully
 * USB-C connector for charging and data
 
 <div id="cover">
-  <img src="https://github.com/dantudose/Hacktor-Watch/blob/main/Images/perspective2.png" height="300"/> 
-  <img src="https://github.com/dantudose/Hacktor-Watch/blob/main/Images/exploded_view.png" height="300"/>
+  <img src="https://github.com/dantudose/Hacktor-Watch/blob/main/Images/perspective-view.png" height="300"/> 
+  <img src="https://github.com/dantudose/Hacktor-Watch/blob/main/Images/disassembled.png" height="300"/>
   <img src="https://github.com/dantudose/Hacktor-Watch/blob/main/Images/side_assy.png" height="300"/> 
 </div>
 
