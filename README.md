@@ -7,12 +7,13 @@ And yes — it’s also sleek and stylish, so no matter how good or bad your cod
 
 <div style='float:center'>
   <img src="https://github.com/dantudose/hacktor-watch/blob/main/Images/20250808_133324.jpg" height="350"/> 
+  <img src="https://github.com/dantudose/Hacktor-Watch/blob/main/Images/20260127_152101.jpg" height="500"/>
   </div>
 
 ## Hardware Diagram &amp; features
 
 <img src="https://github.com/dantudose/Hacktor-Watch/blob/main/Images/Hacktor Watch 2.0.jpg" height="500"/>
-<img src="https://github.com/dantudose/Hacktor-Watch/blob/main/Images/20260127_152101.jpg" height="500"/>
+
 <a href="https://docs.google.com/drawings/d/1u0_o-W6L3w2xveMWQQGLrzZhusZ90oDN8ES3exkrWA4/edit?usp=sharing">Hardware diagram.</a>
 
 This is a open-hardware wearable based on the ESP32 microcontroller. It is fully Arduino-compatible and it comes with the following features:
