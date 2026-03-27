@@ -11,6 +11,7 @@ And yes — it’s also sleek and stylish, so no matter how good or bad your cod
 <div style='float:center'>
   <img src="https://github.com/dantudose/hacktor-watch/blob/main/Images/20250808_133324.jpg" height="350"/> 
   </div>
+  
 ## Hardware Diagram &amp; features
 
 <img src="https://github.com/dantudose/Hacktor-Watch/blob/main/Images/Hacktor Watch 2.0.jpg" height="500"/>
