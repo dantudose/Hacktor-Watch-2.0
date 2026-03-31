@@ -71,9 +71,9 @@ This is a open-hardware wearable based on the ESP32 microcontroller. It is fully
   </div>
 
 ## Software Support
-<a href="https://github.com/radupascale/hectorwatch-nuttx">NuttX OS port</a> 
-<a href="https://github.com/dantudose/Hacktor">Arduino (PlatformIO)</a> 
-<a href="https://github.com/dantudose/Hacktor_Basic">Zephyr OS</a> 
+* <a href="https://github.com/radupascale/hectorwatch-nuttx">NuttX OS port</a> 
+* <a href="https://github.com/dantudose/Hacktor">Arduino (PlatformIO)</a> 
+* <a href="https://github.com/dantudose/Hacktor_Basic">Zephyr OS</a> 
 
 
 ## License Information
