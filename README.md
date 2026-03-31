@@ -71,7 +71,10 @@ This is a open-hardware wearable based on the ESP32 microcontroller. It is fully
   </div>
 
 ## Software Support
-The watch supports Arduino and ESP-IDF programming. For a working NuttX port, check out <a href="https://github.com/radupascale/hectorwatch-nuttx">Radu Pascale's</a> repo. 
+<a href="https://github.com/radupascale/hectorwatch-nuttx">NuttX OS port</a> 
+<a href="https://github.com/dantudose/Hacktor">Arduino (PlatformIO)</a> 
+<a href="https://github.com/dantudose/Hacktor_Basic">Zephyr OS</a> 
+
 
 ## License Information
 
